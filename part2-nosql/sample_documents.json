@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 60000,
+    "specs": {
+      "brand": "Dell",
+      "warranty": "2 years",
+      "ram": "16GB"
+    }
+  },
+  {
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 1500,
+    "size": "L",
+    "material": "Cotton"
+  },
+  {
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 50,
+    "expiry_date": "2024-01-01",
+    "nutrition": {
+      "calories": 120,
+      "fat": "3%"
+    }
+  }
+]
